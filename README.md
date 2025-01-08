@@ -14,4 +14,4 @@ youll need some libraries which are mentioned in requirements.txt
 
 https://huggingface.co/spaces/vedet9/ipl
 
-Made by Vedant Singh and Yash Agarwal collaboratel.
+Made by Manav kalani.
